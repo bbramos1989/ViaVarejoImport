@@ -1,0 +1,14 @@
+C:\Users\Bruno Borba\source\repos\ChilliCorev1\ChilliCorev1\bin\Debug\netcoreapp2.1\ChilliCorev1.deps.json
+C:\Users\Bruno Borba\source\repos\ChilliCorev1\ChilliCorev1\bin\Debug\netcoreapp2.1\ChilliCorev1.runtimeconfig.json
+C:\Users\Bruno Borba\source\repos\ChilliCorev1\ChilliCorev1\bin\Debug\netcoreapp2.1\ChilliCorev1.runtimeconfig.dev.json
+C:\Users\Bruno Borba\source\repos\ChilliCorev1\ChilliCorev1\bin\Debug\netcoreapp2.1\ChilliCorev1.dll
+C:\Users\Bruno Borba\source\repos\ChilliCorev1\ChilliCorev1\obj\Debug\netcoreapp2.1\ChilliCorev1.csprojAssemblyReference.cache
+C:\Users\Bruno Borba\source\repos\ChilliCorev1\ChilliCorev1\obj\Debug\netcoreapp2.1\ChilliCorev1.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Borba\source\repos\ChilliCorev1\ChilliCorev1\obj\Debug\netcoreapp2.1\ChilliCorev1.RazorAssemblyInfo.cache
+C:\Users\Bruno Borba\source\repos\ChilliCorev1\ChilliCorev1\obj\Debug\netcoreapp2.1\ChilliCorev1.RazorAssemblyInfo.cs
+C:\Users\Bruno Borba\source\repos\ChilliCorev1\ChilliCorev1\obj\Debug\netcoreapp2.1\ChilliCorev1.AssemblyInfoInputs.cache
+C:\Users\Bruno Borba\source\repos\ChilliCorev1\ChilliCorev1\obj\Debug\netcoreapp2.1\ChilliCorev1.AssemblyInfo.cs
+C:\Users\Bruno Borba\source\repos\ChilliCorev1\ChilliCorev1\obj\Debug\netcoreapp2.1\ChilliCorev1.RazorTargetAssemblyInfo.cache
+C:\Users\Bruno Borba\source\repos\ChilliCorev1\ChilliCorev1\bin\Debug\netcoreapp2.1\ChilliCorev1.pdb
+C:\Users\Bruno Borba\source\repos\ChilliCorev1\ChilliCorev1\obj\Debug\netcoreapp2.1\ChilliCorev1.dll
+C:\Users\Bruno Borba\source\repos\ChilliCorev1\ChilliCorev1\obj\Debug\netcoreapp2.1\ChilliCorev1.pdb
